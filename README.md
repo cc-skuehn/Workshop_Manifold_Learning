@@ -41,7 +41,7 @@ http://scikit-learn.org/stable/modules/random_projection.html
 
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 
-### Github repo with worked examples
+### Github repo with some more worked examples - Work In Progress
 https://github.com/cc-skuehn/Manifold_Learning
 
 ### Jupyter Lab
