@@ -5,10 +5,7 @@ Workshop Jupyter Notebooks for Manifold Learning
 ## Slides
 https://de.slideshare.net/StefanKhn4
 
-Alternatively, there are some pdf versions of related talks in the repo, the latest version being
-Mcubed_20181016.pdf
-
-In the latest slides there are even more links to useful resources - most probably the full list.
+The pdf version of the slides from the workshop can be found directly above, very similar versions can be found on Slideshare.
 
 ## Methods covered (well, mentioned and used)
 
